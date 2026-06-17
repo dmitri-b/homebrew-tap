@@ -1,6 +1,6 @@
 cask "lightpaper" do
-  version "0.1.12"
-  sha256 "0fb52097fa57bed60aa83988254df22436c090a90746d4e2d721e7cb685c142e"
+  version "0.1.13"
+  sha256 "83b9c7eddda51dffc82e5c038fbac091485de2b86264571cda05a2e76e9e0591"
 
   url "https://github.com/dmitri-b/lightpaper/releases/download/v#{version}/Lightpaper.saver.zip"
   name "Lightpaper"
