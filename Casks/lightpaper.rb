@@ -7,7 +7,7 @@ cask "lightpaper" do
   desc "Lightroom cache mosaic macOS screen saver"
   homepage "https://github.com/dmitri-b/lightpaper"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   screen_saver "Lightpaper.saver"
 
